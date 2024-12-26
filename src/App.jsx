@@ -4,6 +4,7 @@ import KeyExample from "./components/KeyExample"
 import ListExample from "./components/ListExample"
 import PassArgumentsExample from "./components/PassArgumentsExample"
 import RefExample from "./components/RefExample"
+import "./App.css"
 
 function App() {
   return (
